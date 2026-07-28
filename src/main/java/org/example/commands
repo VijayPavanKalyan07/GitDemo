@@ -37,6 +37,7 @@ key -> origin
 
 git remote add origin https://github.com/PavanPk170701/GitDemo.git
 
+git push origin master
 
-
+git remote set-url origin https://github.com/VijayPavanKalyan07/GitDemo.git
 

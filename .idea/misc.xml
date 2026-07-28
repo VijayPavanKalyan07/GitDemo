@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -8,6 +9,8 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> f3fd34e714f2738617a8a7a732529320971a2678
   <component name="ProjectRootManager" version="2" languageLevel="JDK_24" default="true" project-jdk-name="temurin-24" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>

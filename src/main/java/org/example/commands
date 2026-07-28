@@ -1,0 +1,13 @@
+git init
+
+-- project level
+git config user.name pavankalyan
+git config user.email vijaypavankalyanreddy@gmail.com
+
+-- globally for entire system
+git config -g user.name pavankalyan
+git config -g user.email vijaypavankalyanreddy@gmail.com
+
+git status
+
+

@@ -10,4 +10,9 @@ git config -g user.email vijaypavankalyanreddy@gmail.com
 
 git status
 
+git add filename
+git add .
+
+git commit -m "Message"
+
 

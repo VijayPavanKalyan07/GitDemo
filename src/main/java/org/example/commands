@@ -15,7 +15,10 @@ git add .
 
 git commit -m "Message"
 
+git checkout branchname
 -- git branch
 git branch
 
+// creating branch and checking out to that branch
+git checkout -b branchname
 git branch branchname

@@ -15,4 +15,7 @@ git add .
 
 git commit -m "Message"
 
+-- git branch
+git branch
 
+git branch branchname

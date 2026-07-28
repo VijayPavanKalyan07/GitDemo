@@ -20,5 +20,23 @@ git checkout branchname
 git branch
 
 // creating branch and checking out to that branch
-git checkout -b branchname
-git branch branchname
+git checkout -b <branchname>
+git branch <branchname>
+
+git merge <branchname>
+
+-- to view commit history
+git log
+
+we can connect our local git repo to mutliple repos
+In general its only 1 remote repo per local repo
+
+"name of remote repo[key]" -> link
+
+key -> origin
+
+git remote add origin https://github.com/PavanPk170701/GitDemo.git
+
+
+
+
